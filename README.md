@@ -264,10 +264,10 @@ Smart_Building_Security/
 
 ## Developer
 
-**Surya**  
+**Pavan Kumar**  
 B.E. Electronics and Communication Engineering — 2026  
 Embedded Systems Training — Vector India, Bangalore  
-GitHub: [github.com/surya48a](https://github.com/surya48a)
+GitHub: 
 
 ---
 
